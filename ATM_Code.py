@@ -77,7 +77,7 @@ if ACCOUNTNumber==Bank_Account['Account Number']:
      if Transaction==0:
        print("The balance is",BALANCE) 
      if Transaction==4:
-      print("THANK YOU !!")
+      print("Thank You for visiting!!")
       break
   else:
     print("INCORRECT PIN")
